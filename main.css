@@ -20,3 +20,9 @@ img{
     height: 50%;
     
 }
+#rules{
+    background-color: lightgray;
+    font-style: italic;
+    text-align: center;
+    
+}
